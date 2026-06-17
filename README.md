@@ -6,9 +6,11 @@
   Aqui você vai encontrar projetos acadêmicos, experimentos, estudos e algumas ideias que resolvi tirar do papel. 😮‍💨
 </p>
 
-<div align="center">
 
-  <h3>🧑‍💻 Sobre mim</h3>
+
+
+
+<div align="center">
 
   <p>
     <img src="https://img.shields.io/badge/🎓_Engenharia_de_Software-6366f1?style=for-the-badge" />
@@ -37,25 +39,29 @@
 
 <br>
 
+
+
 <div align="center">
 
-  <h3>💻 Linguagens e Tecnologias</h3>
+  ### 💻 Linguagens e Tecnologias
 
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-    &nbsp;&nbsp;&nbsp;
+    <span style="font-size:28px; vertical-align:1rem;">│</span>
     <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
-    &nbsp;&nbsp;&nbsp;
+    <span style="font-size:28px; vertical-align:1rem;">│</span>
     <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   </p>
-
 </div>
 
-<br>
 
-<h3>📊 Estatísticas</h3>
+
+
+
+### 📊 Estatísticas
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavioaugustto&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioaugustto&layout=compact&theme=tokyonight" />
 </p>
+
