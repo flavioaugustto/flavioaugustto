@@ -23,11 +23,11 @@
   </p>
 </div>
 
+<br>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7c3aed&section=header&reversal=false" width="70%" />
 </p>
-
-<br>
 
 <div align="center">
   <h3>💻 Linguagens e Tecnologias</h3>
