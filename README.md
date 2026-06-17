@@ -17,8 +17,7 @@
         <img src="https://img.shields.io/badge/🎲_RPG_&_Projetos-9333ea?style=for-the-badge" />
         <img src="https://img.shields.io/badge/🎨_Arte_Digital-a855f7?style=for-the-badge" />
         <img src="https://img.shields.io/badge/📚_Tecnologia-c084fc?style=for-the-badge" />
-  
-  <h3>✉️ Contato</h3>
+      <br>
         <a href="https://www.linkedin.com/in/flavioaugustto">
           <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
@@ -33,7 +32,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=7c3aed&section=header&reversal=false" width="70%" />
 </p>
 
-<br>
 
 
 
