@@ -39,6 +39,7 @@
 <br>
 
 <div align="center">
+  
   ### 💻 Linguagens e Tecnologias
 
   <p>
