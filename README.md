@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/🎨_Arte_Digital-a855f7?style=for-the-badge" />
         <img src="https://img.shields.io/badge/📚_Tecnologia-c084fc?style=for-the-badge" />
   
-  <h3>✉️ Contato</h3>
+  <h3></h3>
         <a href="https://www.linkedin.com/in/flavioaugustto">
           <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
