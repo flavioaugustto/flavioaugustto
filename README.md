@@ -43,9 +43,9 @@
 
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-    <span style="font-size:28px; vertical-align:1rem;">│</span>
+    &nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
-    <span style="font-size:28px; vertical-align:1rem;">│</span>
+    &nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   </p>
 
