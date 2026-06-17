@@ -20,7 +20,7 @@
   <p>
     <a href="https://www.linkedin.com/in/flavioaugustto">
       <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+    </a>&nbsp;
     <a href="mailto:flavioaugustosilv@gmail.com">
       <img src="https://img.shields.io/badge/Email-9333ea?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
