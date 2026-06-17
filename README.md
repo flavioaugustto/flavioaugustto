@@ -11,24 +11,20 @@
 
 
 <div align="center">
-
-  <p>
-    <img src="https://img.shields.io/badge/🎓_Engenharia_de_Software-6366f1?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/📍_Maringá_PR-7c3aed?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎲_RPG_&_Projetos-9333ea?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎨_Arte_Digital-a855f7?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/📚_Tecnologia-c084fc?style=for-the-badge" />
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/flavioaugustto">
-      <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:flavioaugustosilv@gmail.com">
-      <img src="https://img.shields.io/badge/Email-9333ea?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-
+  <h3>🧑‍💻 Sobre mim</h3>
+        <img src="https://img.shields.io/badge/🎓_Engenharia_de_Software-6366f1?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/📍_Maringá_PR-7c3aed?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/🎲_RPG_&_Projetos-9333ea?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/🎨_Arte_Digital-a855f7?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/📚_Tecnologia-c084fc?style=for-the-badge" />
+  
+  <h3>✉️ Contato</h3>
+        <a href="https://www.linkedin.com/in/flavioaugustto">
+          <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:flavioaugustosilv@gmail.com">
+          <img src="https://img.shields.io/badge/Email-9333ea?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
 </div>
 
 <br>
