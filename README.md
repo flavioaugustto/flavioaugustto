@@ -6,10 +6,6 @@
   Aqui você vai encontrar projetos acadêmicos, experimentos, estudos e algumas ideias que resolvi tirar do papel. 😮‍💨
 </p>
 
-
-
-
-
 <div align="center">
   <h3>🧑‍💻 Sobre mim</h3>
 
@@ -31,18 +27,14 @@
   </p>
 </div>
 
-<br>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7c3aed&section=header&reversal=false" width="70%" />
 </p>
 
-
-
+<br>
 
 <div align="center">
-
-  ### 💻 Linguagens e Tecnologias
+  <h3>💻 Linguagens e Tecnologias</h3>
 
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
@@ -53,14 +45,11 @@
   </p>
 </div>
 
+<br>
 
-
-
-
-### 📊 Estatísticas
+<h3>📊 Estatísticas</h3>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavioaugustto&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioaugustto&layout=compact&theme=tokyonight" />
 </p>
-
